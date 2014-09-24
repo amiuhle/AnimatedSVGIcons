@@ -1,0 +1,20 @@
+{
+  "name": "AnimatedSVGIcons",
+  "version": "1.1.0",
+  "homepage": "http://tympanus.net/Development/AnimatedSVGIcons/",
+  "authors": [
+    "Codrops http://www.codrops.com"
+  ],
+  "main": "js/svgicons.js",
+  "license": "http://tympanus.net/codrops/licensing/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "~0.3.0"
+  }
+}
